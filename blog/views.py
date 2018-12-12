@@ -1,6 +1,5 @@
 #from django.shortcuts import render  #commented to replace with below...
 
-
 from django.shortcuts import render, get_object_or_404
 from django.shortcuts import redirect                               # could this line be consolidated with above shortcuts line?
 from django.utils import timezone
